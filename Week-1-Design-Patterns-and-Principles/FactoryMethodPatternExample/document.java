@@ -1,0 +1,3 @@
+interface document{
+    void open();
+}

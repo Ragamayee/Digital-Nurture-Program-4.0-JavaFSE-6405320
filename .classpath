@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Week-1-Algorithms_Data Structures/Exc-2-E-commerce Platform Search Function"/>
+	<classpathentry kind="src" path="Week-1-Design-Patterns-and-Principles/Exc-1-Implementing the Singleton Pattern"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
